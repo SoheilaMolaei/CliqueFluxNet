@@ -1,5 +1,5 @@
 # CliqueFluxNet
-# dataset: 
+# Dataset: 
  All the datasets used in this study are publicly available from [physionet.org ](https://physionet.org/). 
 # Packages: 
 torch_geometric 
